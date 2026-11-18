@@ -7,15 +7,13 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Dan York: @danyork@mastodon.social
 - Emelia Smith: @thisismissem.social@bsky.brid.gy (formerly @thisismissem@hachyderm.io)
 - Erik Nygren: @nygren@hachyderm.io  (redirected to by @erik@nygren.org)
+- IETF DNSOP WG (bot): @ietf_wg_dnsop@hachyderm.io
+- IETF: @ietf@mastodon.online
+- Internet Society: @internetsociety@techpolicy.social
+- IRTF: @irtf@discuss.systems
 - Jim Fenton: @jimfenton@infosec.exchange
 - John Kristoff: @jtk@infosec.exchange
 - John Levine: @spamvictim@infosec.exchange (also @compcompilers@infosec.exchange, announcing newsgroup posts)
 - Olaf Kolkman: @olaf@social.secret-wg.org
 - Paul Hoffman: @paulehoffman@infosec.exchange
 - Wes Hardaker: @hardaker@fosstodon.org
-
-## Organizations and Working Groups ##
-
-- IETF (experimental): @ietf@mastodon.online
-- DNSOP WG: @ietf_wg_dnsop@hachyderm.io
-
